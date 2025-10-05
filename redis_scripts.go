@@ -1,4 +1,4 @@
-package lock
+package xailock
 
 // Redis Lua脚本优化实现
 // 通过原子性脚本减少网络往返次数，提升性能
